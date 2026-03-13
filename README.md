@@ -36,8 +36,7 @@ O objetivo do projeto é praticar manipulação do DOM e eventos em JavaScript.
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório
-git clone https://github.com/https://github.com/Diegofreitas1234/hambiente_web
-.git
+git clone https://github.com/Diegofreitas1234/hambiente_web.git
 
 2. Abra o arquivo
 
